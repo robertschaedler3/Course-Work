@@ -1,11 +1,3 @@
-"""
-    Robert Schaedler III
-    I pledge my honor that I have abided by the Stevens Honor System.
-    Stevens ID: rschaedl
-    Lab: LE
-"""
-
-
 def change(amount, coins):
     """ Returns the minimum amount of coins needed to supply the given an amount and a list of coins. """
     if amount == 0:

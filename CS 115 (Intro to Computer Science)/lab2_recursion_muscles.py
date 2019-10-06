@@ -1,11 +1,3 @@
-"""
-    Robert Schaedler III
-    I pledge my honor that I have abided by the Stevens Honor System.
-    Stevens ID: rschaedl
-    Lab: LE
-"""
-
-
 def dot(l, k):
     try:
         if l == []:

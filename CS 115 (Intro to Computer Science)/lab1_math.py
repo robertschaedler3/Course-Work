@@ -1,10 +1,3 @@
-"""
-    Robert Schaedler III
-    I pledge my honor that I have abided by the Stevens Honor System.
-    Stevens ID: rschaedl
-    Lab: LE
-"""
-
 from cs115 import map, reduce
 import math
 

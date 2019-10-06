@@ -1,9 +1,3 @@
-''' Created on September 4, 2019
-    I pledge my honor that I have abided by the Stevens Honor System.
-    @author: Robert Schaedler III
-    username: rschaedl
-'''
-
 import sys
 from cs115 import map, reduce
 

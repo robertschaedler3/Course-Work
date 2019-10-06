@@ -1,10 +1,3 @@
-"""
-Created on 9/13/2019
-@author:   Robert Schaedler III
-Pledge:    I pledge my honor that I have abided by the Stevens Honor System.
-
-CS115 - Hw 2
-"""
 import sys
 from cs115 import map, reduce, filter
 # Be sure to submit hw2.py.  Remove the '_template' from the file name.

@@ -1,20 +1,3 @@
-"""
-Created on 9/20/2019
-@author:   Robert Schaedler III
-Pledge:    I pledge my honor that I have abided by the Stevens Honor System.
-
-CS115 - Hw 3
-"""
-# Be sure to submit hw3.py.  Remove the '_template' from the file name.
-
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' PROBLEM 1
-' Implement the function giveChange() here:
-' See the PDF in Canvas for more details.
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-# your code goes here
-
-
 def giveChange(amount, coins):
     """ Returns the minimum amount of coins (including specific coins) needed to supply the given an amount and a list of coins. """
     if amount == 0:
