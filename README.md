@@ -1,5 +1,5 @@
 # Course Work
-A complete up-to-date repository of my coursework.
+A complete up-to-date repository of my technichal coursework at Stevens Institute of Technology.
 
 ## Courses
 * [SSW 215 Individual Software Engineering](https://github.com/robertschaedler3/SSW-215)
