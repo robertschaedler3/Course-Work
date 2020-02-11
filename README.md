@@ -9,5 +9,5 @@ A complete up-to-date repository of my technical coursework at Stevens Institute
 * [CS 115 Intro to Computer Science](https://github.com/robertschaedler3/CS-115)
 * [CS 135 Discrete Structures](https://github.com/robertschaedler3/CS-135)
 * [CS 284 Data Structures](https://github.com/robertschaedler3/CS-284)
-* [CS 385 Algorithms]()
-* [CS 392 Systems Programming]()
+* [CS 385 Algorithms](https://github.com/robertschaedler3/CS-385)
+* [CS 392 Systems Programming](https://github,com/robertschaedler3/CS-392)
