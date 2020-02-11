@@ -10,5 +10,5 @@ A complete up-to-date repository of my technical coursework at Stevens Institute
 * [CS 135 Discrete Structures](https://github.com/robertschaedler3/CS-135)
 * [CS 284 Data Structures](https://github.com/robertschaedler3/CS-284)
 * [CS 385 Algorithms](https://github.com/robertschaedler3/CS-385)
-* [CS 392 Systems Programming](https://github,com/robertschaedler3/CS-392)
+* [CS 392 Systems Programming](https://github.com/robertschaedler3/CS-392)
 * [FE 520 Intro to Python for Financial Applications](https://robertschaedler3/FE-520)
