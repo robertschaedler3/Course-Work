@@ -15,4 +15,5 @@ A complete up-to-date repository of my technical coursework at Stevens Institute
 * [CS 385 Algorithms](https://github.com/robertschaedler3/CS-385)
 * [CS 392 Systems Programming](https://github.com/robertschaedler3/CS-392)
 * [CS 511 Concurrent Programming](https://github.com/robertschaedler3/CS-511)
+* [CS 526 Enterprise & Cloud Computing](https://github.com/robertschaedler3/CS-526)
 * [FE 520 Intro to Python for Financial Applications](https://github.com/robertschaedler3/FE-520)
